@@ -11,6 +11,6 @@ console.log(validator.isEmail('foo@bar.com'))
 // const gg = chalk.warn(validator.isEmail('foo@bar.com'))
 console.log(process.argv)
 
-// fs.writeFileSync('notes.txt', 'My  is Andrew.')
+// fs.writeFileSync('notes.txt', 'My Andrew.')
 
 // fs.appendFileSync('notes.txt', ' I live in Philadelphia.')
